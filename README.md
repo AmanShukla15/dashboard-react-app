@@ -1,4 +1,4 @@
-This website is made using ReactJs.
+This website is made using ReactJs, Tailwind
 
 It is only a frontend website.
 
